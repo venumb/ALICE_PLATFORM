@@ -96,7 +96,7 @@ public:
 vector<vec> layer_pts;
 list<vec> stack_pts;
 
-int numPtsPerLayer = 32;
+int numPtsPerLayer = 64;
 float radius = 10;
 
 vec up(0, 0, 1);
